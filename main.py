@@ -1,5 +1,4 @@
 import os
-from xml.dom import NotFoundErr
 from discord import Webhook, RequestsWebhookAdapter
 import requests
 

@@ -20,6 +20,10 @@ py main.py
 ```
 > Use as you wish!
 
+**OR**
+
+> Head over to [https://replit.com/@Najmul190/Discord-Webhooks-Tool](https://replit.com/@Najmul190/Discord-Webhooks-Tool) to use it with no installation required, on browser. This even works on phone!
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

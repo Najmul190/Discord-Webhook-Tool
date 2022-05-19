@@ -1,4 +1,4 @@
-# Discord  Webhook Tools
+# Discord  Webhook Tool
 
 Simple discord webhook tools coded in Python, including a spammer, deleter and an information grabber.
 
